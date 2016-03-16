@@ -1,29 +1,41 @@
-name: Thinkmario
-favicon: null
-layout_spectrum: 0.7666975813917816
-typography_spectrum: 0.6362467396538705
 title: Thinkmario
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.9586466
+  brandColors:
+    - '#3B3B6D'
+    - '#FFFFFF'
+    - '#B32134'
+    - '#EFC1AA'
+    - '#191A30'
+  rhythmicContrast: 0.9266917
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Thinkmario
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7213946115225554
-  lightness: 0.8326087919995189
-  saturation: 0.9011864801868796
-  rhythmicContrast: 0.5780598716810346
-purpose: []
+typography_spectrum: 0.9379699
+layout_spectrum: 0.1466165
