@@ -6,22 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: "La mercadotecnia, a los ojos del no iniciado, el consumidor común y uno que otro mercadotecnista despistado, está plagada de mitos y leyendas.\_"
-datePublished: '2016-03-16T05:24:26.985Z'
-dateModified: '2016-03-16T05:23:55.392Z'
+datePublished: '2016-03-16T05:35:56.678Z'
+dateModified: '2016-03-16T05:27:54.494Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-la-mercadotecnia-a-los-ojos-del-no-iniciado-el-consumidor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-la-mercadotecnia-a-los-ojos-del-no-iniciado-el-consumidor.md
-published: true
 url: la-mercadotecnia-a-los-ojos-del-no-iniciado-el-consumidor/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5d371f9-ebaa-4593-971e-6aefba5a9098.jpg)
+
+Mitos sobre la mercadotecnia. Parte 1
+
 La mercadotecnia, a los ojos del no iniciado, el consumidor común y uno que otro mercadotecnista despistado, está plagada de mitos y leyendas. 
 
 Muchos de estos mitos surgen de la televisión y las series sobre publicistas o de historias del pasado.
@@ -44,6 +48,6 @@ Las carteleras mal utilizadas son también una fuente de desperdicio de recursos
 No olvidemos el mensaje; cualquier esfuerzo de comunicación debe tener un mensaje bien pensado. 
 
 No es necesario contar con grandes y costosas empresas para que nos preparen una estrategia de comunicación, si el mensaje base no es el correcto entonces caerá en oídos sordos.
-¿Cuántos de los productos o servicios que usaste hoy tienen detrás de ellos publicidad? ¿algunos de ellos no hacen publicidad tradicional?. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5d371f9-ebaa-4593-971e-6aefba5a9098.jpg)
+¿Cuántos de los productos o servicios que usaste hoy tienen detrás de ellos publicidad? ¿algunos de ellos no hacen publicidad tradicional?. 
 
 En próximas entregas vamos a seguir con la serie: Mitos sobre la Mercadotecnia. Por lo pronto déjanos tus comentarios por favor.
