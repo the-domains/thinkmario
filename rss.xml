@@ -4,7 +4,7 @@
         <description><![CDATA[Thinkmario]]></description>
         <link>https://thegrid.ai/thinkmario/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 05:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 05:36:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thinkmario/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -23,10 +23,11 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>La mercadotecnia, a los ojos del no iniciado, el consumidor común y uno que otro mercadotecnista despistado, está plagada de mitos y leyendas. </p>]]></description>
+            <description><![CDATA[<p>
+Mitos sobre la mercadotecnia. Parte 1</p>]]></description>
             <link>https://thegrid.ai/thinkmario/la-mercadotecnia-a-los-ojos-del-no-iniciado-el-consumidor/index.html</link>
             <guid isPermaLink="false">40f50aab-8fc7-4cc7-ac58-e26621921976</guid>
-            <pubDate>Wed, 16 Mar 2016 05:24:26 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 05:35:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
