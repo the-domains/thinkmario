@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "La Creatividad: deseada pero temida.\_"
-datePublished: '2016-03-16T05:31:22.757Z'
-dateModified: '2016-03-16T05:31:08.734Z'
+datePublished: '2016-03-16T05:35:49.653Z'
+dateModified: '2016-03-16T05:31:31.475Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-la-creatividad-deseada-pero-temida.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-la-creatividad-deseada-pero-temida.md
-published: true
 url: la-creatividad-deseada-pero-temida/index.html
 _type: Article
 
