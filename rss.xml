@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thinkmario]]></title>
         <description><![CDATA[Thinkmario]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thinkmario/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 05:24:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 05:31:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thinkmario/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>La Creatividad: deseada pero temida. </p>]]></description>
+            <link>https://thegrid.ai/thinkmario/la-creatividad-deseada-pero-temida/index.html</link>
+            <guid isPermaLink="false">2e684a14-488e-4085-be53-0310921e6e17</guid>
+            <pubDate>Wed, 16 Mar 2016 05:31:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>La mercadotecnia, a los ojos del no iniciado, el consumidor común y uno que otro mercadotecnista despistado, está plagada de mitos y leyendas. </p>]]></description>
-            <link>undefinedla-mercadotecnia-a-los-ojos-del-no-iniciado-el-consumidor/index.html</link>
+            <link>https://thegrid.ai/thinkmario/la-mercadotecnia-a-los-ojos-del-no-iniciado-el-consumidor/index.html</link>
             <guid isPermaLink="false">40f50aab-8fc7-4cc7-ac58-e26621921976</guid>
             <pubDate>Wed, 16 Mar 2016 05:24:26 GMT</pubDate>
         </item>
