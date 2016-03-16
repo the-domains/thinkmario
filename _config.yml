@@ -1,0 +1,28 @@
+name: Thinkmario
+favicon: null
+layout_spectrum: 0.7666975813917816
+typography_spectrum: 0.6362467396538705
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7213946115225554
+  lightness: 0.8326087919995189
+  saturation: 0.9011864801868796
+  rhythmicContrast: 0.5780598716810346
+purpose: []
