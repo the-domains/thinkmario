@@ -27,15 +27,15 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Thinkmario
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4235589
-layout_spectrum: 0.1466165
+layout_spectrum: 1
