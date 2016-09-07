@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 1
   lightness: 0.9586466
   brandColors:
-    - '#3B3B6D'
-    - '#FFFFFF'
-    - '#B32134'
-    - '#EFC1AA'
-    - '#191A30'
+    - '#181819'
+    - '#EEC1A9'
+    - '#FF2A2A'
+    - '#4DDBFD'
+    - '#0074E4'
   rhythmicContrast: 0.9266917
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Thinkmario
-favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9379699
+typography_spectrum: 0.4235589
 layout_spectrum: 0.1466165
